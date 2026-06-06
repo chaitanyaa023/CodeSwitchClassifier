@@ -1,0 +1,177 @@
+CLINC150 Intent → Domain Mapping
+==================================================
+
+[banking]
+  account_blocked
+  apr
+  balance
+  bill_balance
+  bill_due
+  card_declined
+  credit_limit
+  credit_limit_change
+  credit_score
+  damaged_card
+  direct_deposit
+  expiration_date
+  freeze_account
+  improve_credit_score
+  income
+  interest_rate
+  min_payment
+  new_card
+  order_checks
+  pay_bill
+  payday
+  pin_change
+  redeem_rewards
+  replacement_card_duration
+  report_fraud
+  report_lost_card
+  rewards_balance
+  rollover_401k
+  routing
+  spending_history
+  taxes
+  transactions
+  transfer
+  w2
+
+[communication]
+  find_phone
+  make_call
+  share_location
+  text
+
+[entertainment]
+  next_song
+  play_music
+  update_playlist
+  what_song
+
+[food]
+  calories
+  cook_time
+  food_last
+  ingredient_substitution
+  ingredients_list
+  meal_suggestion
+  nutrition_info
+  recipe
+  restaurant_reservation
+  restaurant_reviews
+  restaurant_suggestion
+
+[general]
+  alarm
+  calculator
+  date
+  definition
+  exchange_rate
+  flip_coin
+  fun_fact
+  how_busy
+  meaning_of_life
+  measurement_conversion
+  next_holiday
+  roll_dice
+  spelling
+  tell_joke
+  time
+  timer
+  timezone
+  translate
+  weather
+
+[insurance]
+  insurance
+  insurance_change
+
+[meta]
+  application_status
+  are_you_a_bot
+  change_ai_name
+  change_language
+  change_user_name
+  do_you_have_pets
+  goodbye
+  greeting
+  how_old_are_you
+  maybe
+  no
+  repeat
+  thank_you
+  user_name
+  what_are_your_hobbies
+  what_can_i_ask_you
+  what_is_your_name
+  where_are_you_from
+  who_do_you_work_for
+  who_made_you
+  yes
+
+[productivity]
+  calendar
+  calendar_update
+  meeting_schedule
+  pto_balance
+  pto_request
+  pto_request_status
+  pto_used
+  reminder
+  reminder_update
+  schedule_meeting
+  shopping_list
+  shopping_list_update
+  todo_list
+  todo_list_update
+
+[shopping]
+  cancel
+  order
+  order_status
+
+[smart_home]
+  change_accent
+  change_speed
+  change_volume
+  reset_settings
+  smart_home
+  sync_device
+  whisper_mode
+
+[transport]
+  current_location
+  directions
+  distance
+  gas
+  gas_type
+  jump_start
+  last_maintenance
+  mpg
+  oil_change_how
+  oil_change_when
+  schedule_maintenance
+  tire_change
+  tire_pressure
+  traffic
+  uber
+
+[travel]
+  accept_reservations
+  book_flight
+  book_hotel
+  cancel_reservation
+  car_rental
+  carry_on
+  confirm_reservation
+  flight_status
+  international_fees
+  international_visa
+  lost_luggage
+  plug_type
+  travel_alert
+  travel_notification
+  travel_suggestion
+  vaccines
+
