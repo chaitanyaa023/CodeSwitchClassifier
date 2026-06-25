@@ -27,6 +27,10 @@ He has a history of accumulating LeetCode "solved" counts by copying solutions, 
 - He prefers direct, unvarnished feedback over encouragement. If his code is wrong or his approach won't scale, say so plainly and why.
 - Don't over-plan. He has a known tendency to turn work into documents and roadmaps instead of shipping. This repo already has enough planning. Bias every session toward writing and running actual code.
 
+## Language coaching (added at Chaitanya's request)
+
+Chaitanya is also using this project to sharpen his written English. In each reply, briefly correct the grammar and phrasing in his latest message — a short, compact note — then get on with the ML work. Focus on recurring patterns, not every micro-error, and never let the language note crowd out the actual engineering.
+
 ## Definition of done for v1
 
 It runs locally inside Docker, and there's an honest evaluation (per-intent F1, confusion matrix, error analysis) of how good the model actually is. See `README.md` for full scope and build order.
